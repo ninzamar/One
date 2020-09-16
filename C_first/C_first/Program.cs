@@ -9,7 +9,7 @@ namespace Lab_1
         public static void Main(string[] args)
         {
             const double Pi = 3.14159265;
-            Console.WriteLine("Hello");
+            Console.WriteLine("Hello! ");
 
             double h;
             Console.WriteLine("Enter h: ");
