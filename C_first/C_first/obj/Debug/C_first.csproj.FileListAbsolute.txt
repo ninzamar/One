@@ -1,0 +1,6 @@
+/Users/albert/Projects/C_first/C_first/obj/Debug/C_first.csprojAssemblyReference.cache
+/Users/albert/Projects/C_first/C_first/obj/Debug/C_first.csproj.CoreCompileInputs.cache
+/Users/albert/Projects/C_first/C_first/bin/Debug/C_first.exe
+/Users/albert/Projects/C_first/C_first/bin/Debug/C_first.pdb
+/Users/albert/Projects/C_first/C_first/obj/Debug/C_first.exe
+/Users/albert/Projects/C_first/C_first/obj/Debug/C_first.pdb

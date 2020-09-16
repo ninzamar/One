@@ -1,0 +1,6 @@
+/Users/albert/Projects/C_second/C_second/bin/Debug/C_second.exe
+/Users/albert/Projects/C_second/C_second/bin/Debug/C_second.pdb
+/Users/albert/Projects/C_second/C_second/obj/Debug/C_second.csprojAssemblyReference.cache
+/Users/albert/Projects/C_second/C_second/obj/Debug/C_second.csproj.CoreCompileInputs.cache
+/Users/albert/Projects/C_second/C_second/obj/Debug/C_second.exe
+/Users/albert/Projects/C_second/C_second/obj/Debug/C_second.pdb
