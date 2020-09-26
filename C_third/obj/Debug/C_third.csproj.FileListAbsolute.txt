@@ -1,0 +1,6 @@
+/Users/albert/Projects/C_third/C_third/bin/Debug/C_third.exe
+/Users/albert/Projects/C_third/C_third/bin/Debug/C_third.pdb
+/Users/albert/Projects/C_third/C_third/obj/Debug/C_third.csprojAssemblyReference.cache
+/Users/albert/Projects/C_third/C_third/obj/Debug/C_third.csproj.CoreCompileInputs.cache
+/Users/albert/Projects/C_third/C_third/obj/Debug/C_third.exe
+/Users/albert/Projects/C_third/C_third/obj/Debug/C_third.pdb
