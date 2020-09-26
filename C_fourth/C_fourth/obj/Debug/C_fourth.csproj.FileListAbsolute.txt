@@ -1,0 +1,6 @@
+/Users/albert/Projects/C_fourth/C_fourth/bin/Debug/C_fourth.exe
+/Users/albert/Projects/C_fourth/C_fourth/bin/Debug/C_fourth.pdb
+/Users/albert/Projects/C_fourth/C_fourth/obj/Debug/C_fourth.csprojAssemblyReference.cache
+/Users/albert/Projects/C_fourth/C_fourth/obj/Debug/C_fourth.csproj.CoreCompileInputs.cache
+/Users/albert/Projects/C_fourth/C_fourth/obj/Debug/C_fourth.exe
+/Users/albert/Projects/C_fourth/C_fourth/obj/Debug/C_fourth.pdb
