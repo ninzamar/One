@@ -1,0 +1,6 @@
+/Users/albert/Projects/C_fifth/C_fifth/bin/Debug/C_fifth.exe
+/Users/albert/Projects/C_fifth/C_fifth/bin/Debug/C_fifth.pdb
+/Users/albert/Projects/C_fifth/C_fifth/obj/Debug/C_fifth.csprojAssemblyReference.cache
+/Users/albert/Projects/C_fifth/C_fifth/obj/Debug/C_fifth.csproj.CoreCompileInputs.cache
+/Users/albert/Projects/C_fifth/C_fifth/obj/Debug/C_fifth.exe
+/Users/albert/Projects/C_fifth/C_fifth/obj/Debug/C_fifth.pdb
