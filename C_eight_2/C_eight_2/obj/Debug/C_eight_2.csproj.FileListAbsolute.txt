@@ -1,0 +1,6 @@
+/Users/albert/Projects/C_eight_2/C_eight_2/bin/Debug/C_eight_2.exe
+/Users/albert/Projects/C_eight_2/C_eight_2/bin/Debug/C_eight_2.pdb
+/Users/albert/Projects/C_eight_2/C_eight_2/obj/Debug/C_eight_2.csprojAssemblyReference.cache
+/Users/albert/Projects/C_eight_2/C_eight_2/obj/Debug/C_eight_2.csproj.CoreCompileInputs.cache
+/Users/albert/Projects/C_eight_2/C_eight_2/obj/Debug/C_eight_2.exe
+/Users/albert/Projects/C_eight_2/C_eight_2/obj/Debug/C_eight_2.pdb

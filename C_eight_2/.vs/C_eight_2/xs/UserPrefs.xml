@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{5EE96FD5-5700-4407-AF9D-47B8BC43D588}|Default">
+  <MonoDevelop.Ide.ItemProperties.C__eight__2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="C_eight_2/Main_f.cs">
+    <Files>
+      <File FileName="C_eight_2/First_phone.cs" Line="6" Column="1" />
+      <File FileName="C_eight_2/Second_phone.cs" />
+      <File FileName="C_eight_2/Third_phone.cs" />
+      <File FileName="C_eight_2/Fourth_phone.cs" />
+      <File FileName="C_eight_2/Fifth_phone.cs" />
+      <File FileName="C_eight_2/Main_f.cs" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="C_eight_2" expanded="True">
+            <Node name="C_eight_2" expanded="True">
+              <Node name="Main_f.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
