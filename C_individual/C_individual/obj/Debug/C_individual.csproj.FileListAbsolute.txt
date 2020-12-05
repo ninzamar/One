@@ -1,0 +1,6 @@
+/Users/albert/Projects/C_individual/C_individual/bin/Debug/C_individual.exe
+/Users/albert/Projects/C_individual/C_individual/bin/Debug/C_individual.pdb
+/Users/albert/Projects/C_individual/C_individual/obj/Debug/C_individual.csprojAssemblyReference.cache
+/Users/albert/Projects/C_individual/C_individual/obj/Debug/C_individual.csproj.CoreCompileInputs.cache
+/Users/albert/Projects/C_individual/C_individual/obj/Debug/C_individual.exe
+/Users/albert/Projects/C_individual/C_individual/obj/Debug/C_individual.pdb

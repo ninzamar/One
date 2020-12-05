@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{45DFCE37-5B1B-42EC-9A8B-ABC942C3B022}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="C_individual/SearchDevice.cs">
+    <Files>
+      <File FileName="C_individual/Phone.cs" Line="20" Column="27" />
+      <File FileName="C_individual/InformationAbout.cs" Line="20" Column="78" />
+      <File FileName="C_individual/SearchDevice.cs" Line="26" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="C_individual" expanded="True">
+            <Node name="C_individual" expanded="True">
+              <Node name="SearchDevice.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.C__individual PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
