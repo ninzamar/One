@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{863CF355-74CB-4E8E-B4FC-036614D80DC9}|Default">
+  <MonoDevelop.Ide.ItemProperties.C__nine PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="C_nine/MainFile.cs">
+    <Files>
+      <File FileName="C_nine/Square.cs" Line="30" Column="40" />
+      <File FileName="C_nine/Triangle.cs" Line="48" Column="59" />
+      <File FileName="C_nine/Picture.cs" Line="23" Column="1" />
+      <File FileName="C_nine/Shape.cs" Line="10" Column="43" />
+      <File FileName="C_nine/Circle.cs" Line="1" Column="1" />
+      <File FileName="C_nine/DrawAll.cs" Line="5" Column="16" />
+      <File FileName="C_nine/DrawThis.cs" Line="11" Column="38" />
+      <File FileName="C_nine/Main.cs" Line="21" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="C_nine" expanded="True">
+            <Node name="C_nine" expanded="True">
+              <Node name="MainFile.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

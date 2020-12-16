@@ -1,0 +1,6 @@
+/Users/albert/Projects/C_nine/C_nine/bin/Debug/C_nine.exe
+/Users/albert/Projects/C_nine/C_nine/bin/Debug/C_nine.pdb
+/Users/albert/Projects/C_nine/C_nine/obj/Debug/C_nine.csprojAssemblyReference.cache
+/Users/albert/Projects/C_nine/C_nine/obj/Debug/C_nine.csproj.CoreCompileInputs.cache
+/Users/albert/Projects/C_nine/C_nine/obj/Debug/C_nine.exe
+/Users/albert/Projects/C_nine/C_nine/obj/Debug/C_nine.pdb
