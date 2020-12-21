@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{B1A58EFD-F73F-47C2-A71D-5DE19FA48165}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="C_eleven2/Students.cs">
+    <Files>
+      <File FileName="C_eleven2/MainAll.cs" Line="1" Column="1" />
+      <File FileName="C_eleven2/Extensions.cs" Line="1" Column="1" />
+      <File FileName="C_eleven2/Students.cs" Line="19" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="C_eleven2" expanded="True">
+            <Node name="C_eleven2" expanded="True">
+              <Node name="Students.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.C__eleven2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,6 @@
+/Users/albert/Projects/C_eleven2/C_eleven2/bin/Debug/C_eleven2.exe
+/Users/albert/Projects/C_eleven2/C_eleven2/bin/Debug/C_eleven2.pdb
+/Users/albert/Projects/C_eleven2/C_eleven2/obj/Debug/C_eleven2.csprojAssemblyReference.cache
+/Users/albert/Projects/C_eleven2/C_eleven2/obj/Debug/C_eleven2.csproj.CoreCompileInputs.cache
+/Users/albert/Projects/C_eleven2/C_eleven2/obj/Debug/C_eleven2.exe
+/Users/albert/Projects/C_eleven2/C_eleven2/obj/Debug/C_eleven2.pdb
