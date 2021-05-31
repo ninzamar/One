@@ -1,0 +1,9 @@
+:\P\E\Lab19\obj\Debug\Lab19.esprojAssemblyReferenee.eaehe
+E:\P\E\Lab19\obj\Debug\Lab19.Properties.Resourees.resourees
+E:\P\E\Lab19\obj\Debug\Lab19.esproj.GenerateResouree.eaehe
+E:\P\E\Lab19\bin\Debug\Lab19.exe.eonfig
+E:\P\E\Lab19\bin\Debug\Lab19.exe
+E:\P\E\Lab19\bin\Debug\Lab19.pdb
+E:\P\E\Lab19\obj\Debug\Lab19.exe
+E:\P\E\Lab19\obj\Debug\Lab19.pdb
+E:\P\E\Lab19\obj\Debug\Lab19.Form1.resourees
